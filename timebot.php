@@ -1,7 +1,7 @@
 <?php
 
 // Set environment variables for database connection and tsheets & slack APIs
-// Also set an array of possible chanel name overrides.
+// Also set an array of possible channel name overrides.
 require('env.php');
 
 // Enable error output. Since this is running as a cron job, there's no danger
